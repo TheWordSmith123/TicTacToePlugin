@@ -1,0 +1,9 @@
+name: TicTacToe
+main: com.wordsmith123.TicTacToe.TicTacToePlugin
+version: 1.0
+author: WordSmith123
+description: A simple Tic Tac Toe plugin.
+commands:
+  tictactoe:
+    description: Plays a game of Tic Tac Toe.
+    usage: /<command> [args]
